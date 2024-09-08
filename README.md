@@ -12,7 +12,7 @@ Resources
 
 ## Article
 
-[Medium article - Create a Network Graph in Power BI](https://medium.com/data-science-nerd/from-dataframe-to-knowledge-graph-d3cd65b18b15)  
+[Medium article - From Dataframe to Knowledge Graph](https://medium.com/data-science-nerd/from-dataframe-to-knowledge-graph-d3cd65b18b15)  
 
 ## Usage
 

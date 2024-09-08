@@ -1,30 +1,33 @@
-# Create a Network Graph in Power BI
+# From DataFrame to Knowledge Graph
 
-> Using ZoomCharts' Drill Down Graph Pro as a Power BI visual.
+> Visualize the relationships of biblical figures in a knowledge graph using networkx.
 
-![Power BI Dashboard](https://github.com/ecdedios/network-graph-power-bi/blob/main/images/Screenshot%202024-07-11%20172526.jpg)
+Resources
+
+![Shortest Path](https://github.com/ecdedios/dataframe-knowledge-graph/blob/main/images/shortest-path.png)
 
 ## Data
 
-[Facebook government pages](https://networkrepository.com/fb-pages-government.php)
+[Bible Data](https://www.kaggle.com/datasets/bradystephenson/bibledata?resource=download&select=BibleData-PersonRelationship.csv)
 
 ## Article
 
-[Medium article - Create a Network Graph in Power BI]()  
-[Network Graph - Published to the Web](https://app.powerbi.com/view?r=eyJrIjoiNDNkMmZiNGItYTA3OS00OTY4LTkyNDItNGY0ZDA4MjVhY2JiIiwidCI6IjAwZmI2OGUxLWQ5ZTktNGZiOC04MzdjLTNhMzcxMmYyZGNlYiJ9)
+[Medium article - Create a Network Graph in Power BI](https://medium.com/data-science-nerd/from-dataframe-to-knowledge-graph-d3cd65b18b15)  
 
 ## Usage
 
 Some technologies used:
 
-- Power BI by Microsoft
-- Drill Down Graph Pro by ZoomCharts
+- Pandas
+- Matplotlib
+- Networkx
+- Scipy
 
 To see the project in action, open and run the notebooks.
 
 ## References
 
-[xxxx](xxxxx)
+[Inspiration](https://neo4j.com/developer-blog/mahabharata-epic-graph-database-1/)
 
 ## Meta
 
@@ -38,7 +41,7 @@ Distributed under the MIT license. See `LICENSE` for more information.
 
 ## Contributing
 
-1. Fork it (<https://github.com/ecdedios/network-graph-power-bi/fork>)
+1. Fork it (<https://github.com/ecdedios/dataframe-knowledge-graph/fork>)
 2. Create your feature branch (`git checkout -b feature/fooBar`)
 3. Commit your changes (`git commit -am 'Add some fooBar'`)
 4. Push to the branch (`git push origin feature/fooBar`)
